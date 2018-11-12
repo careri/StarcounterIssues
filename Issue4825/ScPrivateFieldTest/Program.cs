@@ -3,6 +3,9 @@ using System.IO;
 using Starcounter;
 using Test.TestApp;
 
+// Uncomment this row to make it work
+// using User = Test.UserModule.User;
+
 namespace Test
 {
     class Program
